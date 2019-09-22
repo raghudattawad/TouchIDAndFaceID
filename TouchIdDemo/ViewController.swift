@@ -40,7 +40,7 @@ class ViewController: UIViewController {
                     }
             })
         }
-            // 5
+            /
         else {
             showAlertController("Touch ID not available")
         }
